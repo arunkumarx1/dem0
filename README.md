@@ -1,4 +1,3 @@
 # dem0
-this is my 1st
-hihi
-gg
+THIS IS MY GIT.
+JUST TRIAL
